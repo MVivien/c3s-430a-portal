@@ -311,6 +311,27 @@
                     "indicator": "period_with_high_amount_of_natural_snow"
                 }
             }
+        },
+        {
+            "description": "HDD - CDD description.",
+            "description_detail": "HDD - CDD description detail.",
+            "detail": "app-heating-cooling-degree-days",
+            "indicator_title": "HDD - CDD",
+            "overview": "app-heating-cooling-degree-days/",
+            "page_title": "HDD CDD page title",
+            "page_url": "hdd-cdd-page-url",
+            "identifier": "C3S_434_023",
+            "theme": ["Energy"],
+            "hazard_category": "Heat and cold",
+            "hazards": ["Heat and cold"],
+            "vars": {
+                "detail": {
+                    "indicator": "hdd_cdd"
+                },
+                "overview": {
+                    "indicator": "hdd_cdd"
+                }
+            }
         }
     ]
 }
